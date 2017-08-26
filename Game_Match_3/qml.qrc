@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>GameBoard.qml</file>
+        <file>ResultWindow.qml</file>
+        <file>functions.js</file>
+        <file>config.json</file>
+        <file>parrot_PNG730.png</file>
+        <file>orangutan_PNG24.png</file>
+        <file>hippo_PNG17.png</file>
+        <file>giraffe_PNG13539.png</file>
+        <file>flamingo_PNG15114.png</file>
+        <file>falcon_PNG30.png</file>
+        <file>elephants_PNG18806.png</file>
+        <file>dolphin_PNG9125.png</file>
+    </qresource>
+</RCC>
